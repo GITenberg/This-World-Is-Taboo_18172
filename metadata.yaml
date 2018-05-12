@@ -1,0 +1,37 @@
+_repo: This-World-Is-Taboo_18172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leinster, Murray
+    aliases:
+    - Jenkins, Will
+    - Jenkins, William Fitzgerald
+    birthdate: 1896
+    deathdate: 1975
+    gutenberg_agent_id: '7321'
+    url: http://www.gutenberg.org/2009/agents/7321
+    wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
+description: Land on Dara? One might as well commit suicide! Untouchable, like the
+  Darans -- that's what they'd call Calhoun if he broke the quarantine. And they'd
+  wipe him out on sight. But Dara needed him, and that was the kind of challenge this
+  Interstellar Med Serviceman would never dodge.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Quarantine -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Space medicine -- Fiction'
+title: This World Is Taboo
+url: http://www.gutenberg.org/ebooks/18172
